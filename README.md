@@ -13,6 +13,6 @@
 
 - [x] 1. `R.__, R.curry, R.curryN, R.uncurryN, R.partial, R.partialRight`
 - [x] 2. `R.addIndex, R.update, R.adjust`
-- [ ] `R.allPass, R.anyPass`
+- [x] `R.all, R.none, R.any, R.allPass, R.anyPass`
 - [ ] `R.forEach, R.filter, R.map`
 - [ ] `R.reduce, R.reduceRight, R.reduced, R.reduceBy, R.reduceWhile, R.transduce`
