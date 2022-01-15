@@ -4,10 +4,10 @@
 
 # Parts
 
-[All Parts](./parts)
+[All Parts](./src/parts)
 
-- [`R.__, R.curry, R.curryN, R.uncurryN, R.partial, R.partialRight`](./parts/part1.js)
-- [`R.addIndex, R.update, R.adjust`](./parts/part2.js)
+- [`R.__, R.curry, R.curryN, R.uncurryN, R.partial, R.partialRight`](./src/parts/part1.js)
+- [`R.addIndex, R.update, R.adjust`](./src/parts/part2.js)
 
 ## TODO
 

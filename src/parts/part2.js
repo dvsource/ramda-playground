@@ -1,3 +1,7 @@
+const R = require('ramda');
+
+const __ = R.__;
+
 // addIndex: https://ramdajs.com/docs/#addIndex
 console.log('\n=== addIndex ===');
 const double = R.multiply(2);
