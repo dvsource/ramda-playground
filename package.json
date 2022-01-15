@@ -1,0 +1,12 @@
+{
+  "name": "ramda-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "play": "node ./src/app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.2"
+  }
+}
