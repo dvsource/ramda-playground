@@ -2,6 +2,8 @@
   "name": "ramda-playground",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/dvsource/ramda-playground",
+  "author": "dvsource <virajkaush@gmail.com>",
   "scripts": {
     "play": "node ./src/app.js"
   },
